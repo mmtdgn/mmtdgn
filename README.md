@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Jr. Game Developer and my name is Mehmet.
+- 👋 Hi, I’m a Jr. Game Developer.
 - 👀 I’m interested in Game Development
 - 📫 if you want to reach me : Mehmet.dogan6634@outlook.com
 
